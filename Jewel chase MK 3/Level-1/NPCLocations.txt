@@ -1,0 +1,6 @@
+5
+Flying,10,0,DOWN
+Flying,2,8,RIGHT
+Thief,2,1,DOWN,YELLOW
+Thief,4,2,DOWN,BLUE
+Flying,20,4,DOWN
